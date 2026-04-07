@@ -1,0 +1,45 @@
+INFO 2026-04-07 08:01:12 User login success from 192.168.1.10
+INFO 2026-04-07 08:03:45 User login success from 192.168.1.12
+ERROR 2026-04-07 08:05:01 Failed login attempt from 192.168.1.5
+ERROR 2026-04-07 08:05:22 Failed login attempt from 192.168.1.5
+WARNING 2026-04-07 08:06:10 Password attempt limit nearing for 192.168.1.5
+ERROR 2026-04-07 08:07:33 Failed login attempt from 192.168.1.7
+INFO 2026-04-07 08:08:02 User logout from 192.168.1.10
+ERROR 2026-04-07 08:09:14 Failed login attempt from 192.168.1.5
+ERROR 2026-04-07 08:10:55 Failed login attempt from 10.0.0.3
+INFO 2026-04-07 08:12:20 User login success from 192.168.1.15
+ERROR 2026-04-07 08:13:44 Failed login attempt from 10.0.0.3
+ERROR 2026-04-07 08:14:01 Failed login attempt from 10.0.0.3
+WARNING 2026-04-07 08:14:30 Multiple failed attempts detected from 10.0.0.3
+INFO 2026-04-07 08:15:10 User login success from 172.16.0.2
+ERROR 2026-04-07 08:16:55 Failed login attempt from 192.168.1.5
+ERROR 2026-04-07 08:17:11 Failed login attempt from 192.168.1.5
+ERROR 2026-04-07 08:17:50 Failed login attempt from 192.168.1.5
+ALERT 2026-04-07 08:18:00 Possible brute force detected from 192.168.1.5
+INFO 2026-04-07 08:19:20 User login success from 192.168.1.20
+ERROR 2026-04-07 08:20:45 Failed login attempt from 172.16.0.8
+ERROR 2026-04-07 08:21:01 Failed login attempt from 172.16.0.8
+INFO 2026-04-07 08:22:30 User login success from 192.168.1.25
+WARNING 2026-04-07 08:23:15 Unusual login pattern from 172.16.0.8
+ERROR 2026-04-07 08:24:55 Failed login attempt from 172.16.0.8
+ERROR 2026-04-07 08:25:10 Failed login attempt from 172.16.0.8
+ERROR 2026-04-07 08:26:42 Failed login attempt from 172.16.0.8
+ALERT 2026-04-07 08:27:00 Possible brute force detected from 172.16.0.8
+INFO 2026-04-07 08:28:33 User logout from 192.168.1.12
+INFO 2026-04-07 08:30:00 System backup completed successfully
+ERROR 2026-04-07 08:31:21 Failed login attempt from 10.0.0.3
+ERROR 2026-04-07 08:32:45 Failed login attempt from 10.0.0.3
+ERROR 2026-04-07 08:33:10 Failed login attempt from 10.0.0.3
+ERROR 2026-04-07 08:34:55 Failed login attempt from 10.0.0.3
+ALERT 2026-04-07 08:35:10 Possible brute force detected from 10.0.0.3
+INFO 2026-04-07 08:36:25 User login success from 192.168.1.30
+INFO 2026-04-07 08:37:40 User login success from 192.168.1.31
+WARNING 2026-04-07 08:38:55 Suspicious login timing from 192.168.1.31
+ERROR 2026-04-07 08:40:10 Failed login attempt from 192.168.1.31
+INFO 2026-04-07 08:42:00 User logout from 192.168.1.30
+INFO 2026-04-07 08:43:22 Scheduled scan completed
+ERROR 2026-04-07 08:44:11 Failed login attempt from 192.168.1.31
+ERROR 2026-04-07 08:45:33 Failed login attempt from 192.168.1.31
+ERROR 2026-04-07 08:46:59 Failed login attempt from 192.168.1.31
+ALERT 2026-04-07 08:47:10 Possible brute force detected from 192.168.1.31
+INFO 2026-04-07 08:48:20 System idle
